@@ -33,7 +33,7 @@
   <a href="https://github.com/sinelnikov-web" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a> 
-  <a href="https://vk.com/sinelnikov-web" target="_blank">
+  <a href="https://vk.com/sinelnikov_web" target="_blank">
     <img alt="Vkontakte" src="https://img.shields.io/badge/%D0%92%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-%231DA1F2.svg?&style=for-the-badge&logo=vk&logoColor=white" />
   </a> 
   <!---
