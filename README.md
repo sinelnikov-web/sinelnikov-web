@@ -15,6 +15,8 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f1da0b?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3f842b?style=flat-square&logo=python&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Jquery" src="https://img.shields.io/badge/-Jquery-006aa9?style=flat-square&logo=jquery&logoColor=white" />
+  <img alt="Bootstrap 5" src="https://img.shields.io/badge/-Bootstrap%205-6800a9?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-2b2b84?style=flat-square&logo=django&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-1960a7?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
