@@ -28,6 +28,23 @@
   <img alt="Atlassian" src="https://img.shields.io/badge/-Atlassian-0183d0?style=flat-square&logo=atlassian&logoColor=white" />
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-28a719?style=flat-square&logo=jira&logoColor=white" />
 </p>
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/sinelnikov-web" target="_blank">
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a> 
+  <a href="https://vk.com/sinelnikov-web" target="_blank">
+    <img alt="Vkontakte" src="https://img.shields.io/badge/%D0%92%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-%231DA1F2.svg?&style=for-the-badge&logo=vk&logoColor=white" />
+  </a> 
+  <!---
+  <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+--->
+  <a href="https://instagram.com/sinelnikov.web" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/instagram-e607b7.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 <!---
 sinelnikov-web/sinelnikov-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
