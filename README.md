@@ -7,7 +7,7 @@
 - Backend: Django 3, DRF, PostgreSQL
 - 📫 How to reach me ...
 --->
-<p>Welcome to my page! </br> I'm Maxim, Web developer from <img src="https://image.flaticon.com/icons/png/512/630/630685.png" width="13"/> <b>Ust'-Kamenogorsk, Kazakhstan</b>. </p>
+<p>Welcome to my page! </br> I'm Maxim, Web developer from <img src="https://cdn-icons-png.flaticon.com/512/630/630685.png" width="13"/> <b>Ust'-Kamenogorsk, Kazakhstan</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS-007dfb?style=flat-square&logo=css3&logoColor=white" />
