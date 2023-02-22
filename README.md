@@ -36,11 +36,9 @@
   <a href="https://vk.com/sinelnikov_web" target="_blank">
     <img alt="Vkontakte" src="https://img.shields.io/badge/%D0%92%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-%231DA1F2.svg?&style=for-the-badge&logo=vk&logoColor=white" />
   </a> 
-  <!---
-  <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank">
+  <a href="https://www.linkedin.com/in/sinelnikov-web/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
---->
   <a href="https://instagram.com/sinelnikov.web" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/instagram-e607b7.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
